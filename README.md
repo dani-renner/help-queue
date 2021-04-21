@@ -1,7 +1,7 @@
 
 # Help Queue
 
-### Authored by: Dani Renner, Mekinsie Callahan
+### Authored by: Dani Renner, Mekinsie Callahan, Nick Lindau
 * * *
 ## Descripton
 
@@ -57,6 +57,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 > [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)\
 > Mekinsie Callahan &copy; 2021  
 > Dani Renner &copy; 2021  
+> Nick Lindau &copy; 2021  
+
 * * *
 
 ## Contact Information
@@ -64,4 +66,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Reach Mekinsie via <a href="https://www.linkedin.com/in/mekinsie/" target="_blank">LinkedIn</a> or <a href="mailto:mekinsie.aja@gmail.com" target="_blank">email</a></li>.  
 
 Reach Dani via <a href="https://www.linkedin.com/in/dani-renner/" target="_blank">LinkedIn</a> or <a href="mailto:danijrenner@gmail.com" target="_blank">email</a></li>.  
+
+Reach Nick via <a href="https://www.linkedin.com/in/nicholaslindau/" target="_blank">LinkedIn</a> or <a href="mailto:nicholaithegreat@gmail.com" target="_blank">email</a></li>.  
 
