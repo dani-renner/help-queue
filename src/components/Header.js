@@ -2,11 +2,20 @@ import React from "react";
 import thisIsAnImage from "./../img/tickets.png";
 import './../styles/Header.css';
 import { Link } from "react-router-dom";
+import styled from 'styled-components';
+
+const HelpQueueHeader = styled.h1`
+  font-size: 24px;
+  text-align: center;
+  color: white;
+`;
 
 function Header(){
   return (
     <React.Fragment>
-      <h1>Help Queue</h1>
+      <HelpQueueHeader>
+        <h1>Help Queue</h1>
+      </HelpQueueHeader>
       <img src={thisIsAnImage} alt="tickets" width="300px" />
       <ul>
         <li>
